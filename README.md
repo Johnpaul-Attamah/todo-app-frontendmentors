@@ -135,7 +135,7 @@ export const lightTheme = {
 
 - Website - [Johnpaul Attamah](https://github.com/Johnpaul-Attamah)
 - Frontend Mentor - [Johnpaul-Attamah](https://www.frontendmentor.io/profile/Johnpaul-Attamah)
-- LinedIn - [Johnpaul](https://www.linkedin.com/in/johnpaul-attamah-4b265983/)
+- LinkedIn - [Johnpaul](https://www.linkedin.com/in/johnpaul-attamah-4b265983/)
 
 
 ## Acknowledgments
