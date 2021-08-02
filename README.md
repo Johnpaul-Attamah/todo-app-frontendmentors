@@ -1,4 +1,3 @@
-![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934379-239bff25-bf9e-4481-9ec0-1c82b2e94752.png)
 # Frontend Mentor - Todo app solution
 
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
