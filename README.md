@@ -11,12 +11,10 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -35,13 +33,13 @@ Users should be able to:
 - **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
+![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934472-140ed381-c7ca-4f8d-b23a-76ae2766e165.png)
 
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [view codes](https://github.com/Johnpaul-Attamah/todo-app-frontendmentors)
+- Live Site URL: [Go live](https://zen-clarke-982f84.netlify.app/)
 
 ## My process
 
@@ -135,9 +133,9 @@ export const lightTheme = {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Johnpaul Attamah](https://github.com/Johnpaul-Attamah)
+- Frontend Mentor - [Johnpaul-Attamah](https://www.frontendmentor.io/profile/Johnpaul-Attamah)
+- LinkedIn - [Johnpaul](https://www.linkedin.com/in/johnpaul-attamah-4b265983/)
 
 
 ## Acknowledgments
