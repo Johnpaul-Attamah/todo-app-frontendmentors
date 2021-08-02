@@ -1,3 +1,4 @@
+![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934379-239bff25-bf9e-4481-9ec0-1c82b2e94752.png)
 # Frontend Mentor - Todo app solution
 
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -13,9 +14,9 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgments)![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934403-1fdf5e3e-8379-4375-b03d-6ecdfe3b7b67.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934415-6375499a-2bb2-4255-932b-684214e2642a.png)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,13 +35,13 @@ Users should be able to:
 - **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
+![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934472-140ed381-c7ca-4f8d-b23a-76ae2766e165.png)
 
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [view codes](https://github.com/Johnpaul-Attamah/todo-app-frontendmentors)
+- Live Site URL: [Go live](https://zen-clarke-982f84.netlify.app/)
 
 ## My process
 
@@ -134,9 +135,9 @@ export const lightTheme = {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Johnpaul Attamah](https://github.com/Johnpaul-Attamah)
+- Frontend Mentor - [Johnpaul-Attamah](https://www.frontendmentor.io/profile/Johnpaul-Attamah)
+- LinedIn - [Johnpaul](https://www.linkedin.com/in/johnpaul-attamah-4b265983/)
 
 
 ## Acknowledgments
