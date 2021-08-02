@@ -6,7 +6,7 @@ import { StyledFooter } from '../styles/Footer.style';
 const Footer = () => {
     return (
         <StyledFooter>
-            <h4>Drag and drop to reorder list</h4>
+            <h2>Drag and drop to reorder list</h2>
 
 
                 <div className="attribution">
