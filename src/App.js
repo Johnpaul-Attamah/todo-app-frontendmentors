@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment, useState } from 'react';
+import { ThemeProvider } from 'styled-components';
+
+import Container from './components/Container';
+import { lightTheme, darkTheme } from './styles/Themes';
+import { GlobalStyles } from './styles/GlobalStyles.styles';
+
 
 function App() {
+  const [theme, setTheme] = useState('dark');
+
+  const toggleNightMode = () => theme === 'dark' ? setTheme('light') : setTheme('dark');
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Fragment>
+      <ThemeProvider theme={theme === 'dark' ? darkTheme : lightTheme}>
+        <GlobalStyles/>
+        <Container onToggle={toggleNightMode}/>
+      </ThemeProvider>
+    </Fragment>
   );
 }
 
