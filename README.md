@@ -14,8 +14,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934403-1fdf5e3e-8379-4375-b03d-6ecdfe3b7b67.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/44214523/127934415-6375499a-2bb2-4255-932b-684214e2642a.png)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
