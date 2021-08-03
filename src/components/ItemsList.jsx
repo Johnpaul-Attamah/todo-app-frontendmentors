@@ -7,7 +7,7 @@ import { StyledItemsList} from '../styles/ItemsList.style';
 
 const ItemsList = ({ 
     todoTasks, 
-    todo, 
+    todoPending, 
     filterTodo, 
     onComplete, 
     onDelete, 
@@ -47,7 +47,7 @@ const ItemsList = ({
                     }
                 </div>
                 <ControlBar 
-                    todoCount={todo.length}
+                    todoCount={todoPending.length}
                     filterTodo={filterTodo}
                     onToggleTodo={onToggleTodo}
                     onClear={onClear}

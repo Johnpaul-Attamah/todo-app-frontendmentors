@@ -113,6 +113,8 @@ const toggleTodoDisplay = input => setFilterTodo(input);
         list.forEach(item => item.classList.remove('target'));
     }
 
+    let activeTasks = todo.filter(t => !t.isCompleted || t.isCompleted === false);
+
 
     return (
         <StyledMainBody>
@@ -122,7 +124,7 @@ const toggleTodoDisplay = input => setFilterTodo(input);
                 onSubmit={handleSubmit}
             />
             <ItemsList 
-                todo={todo}
+                todoPending={activeTasks}
                 todoTasks={todoTasks}
                 filterTodo={filterTodo}
                 onComplete={handleCompleteToggle}
